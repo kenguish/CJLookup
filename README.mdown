@@ -7,8 +7,6 @@ http://itunes.apple.com/us/app/id367246450
 
 This app uses the Three20 framework extensively, which should serve as a good example on how to integrate Three20 into your project. 
 
-[![](http://github.com/kenguish/DBTimetable-iPhone-1.0/raw/master/Default.png)](http://github.com/kenguish/DBTimetable-iPhone-1.0/raw/master/Default.png)
-
 This iPhone app is developed for "Fleur Hong Kong flower shop 花香港花店" <http://fleur.hk/>, an European style online flower shop for their Hong Kong clienté. 
 
 If you are interested to extend the code, please feel free to contact the project
